@@ -67,13 +67,6 @@ The challenge is:
 
 ---
 
-## 📷 Sample Visualization
-Light curve showing dip in brightness:
-
-![Light Curve](assets/light_curve.png)
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository
